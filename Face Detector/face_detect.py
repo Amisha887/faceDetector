@@ -1,3 +1,4 @@
+#for images and real-time webcam access both
 import cv2
 from random import randrange
 trained_face_data=cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
